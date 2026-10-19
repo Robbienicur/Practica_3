@@ -1,0 +1,6 @@
+db/
+incremental_db/
+*.rpt
+*.summary
+*.smsg
+*.qws
